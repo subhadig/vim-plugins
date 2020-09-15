@@ -1,6 +1,3 @@
 [submodule "start/jedi-vim"]
 	path = start/jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
-[submodule "opt/onedark"]
-	path = opt/onedark
-	url = https://github.com/joshdick/onedark.vim.git
