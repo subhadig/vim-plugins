@@ -4,3 +4,6 @@
 [submodule "opt/vim-one"]
 	path = opt/vim-one
 	url = https://github.com/rakr/vim-one.git
+[submodule "opt/iosvkem"]
+	path = opt/iosvkem
+	url = https://github.com/neutaaaaan/iosvkem.git
