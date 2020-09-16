@@ -1,3 +1,6 @@
 [submodule "start/jedi-vim"]
 	path = start/jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "opt/vim-one"]
+	path = opt/vim-one
+	url = https://github.com/rakr/vim-one.git
