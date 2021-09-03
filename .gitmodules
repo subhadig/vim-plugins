@@ -7,3 +7,6 @@
 [submodule "opt/iosvkem"]
 	path = opt/iosvkem
 	url = https://github.com/neutaaaaan/iosvkem.git
+[submodule "start/kotlin-vim"]
+	path = start/kotlin-vim
+	url = https://github.com/udalov/kotlin-vim.git
