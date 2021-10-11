@@ -2,13 +2,15 @@
 My Vim Plugins
 
 # Instructions for neovim
-- Create the directory structure:
 
-```
+## Configure for first time
+```bash
 mkdir -p ~/.local/share/nvim/site/pack/
+git clone --recurse-submodules git@github.com:subhadig/vim-plugins.git
 ```
 
-- Go to the directory and clone the vim-plugin repository
-```
-git clone --recurse-submodules git@github.com:subhadig/vim-plugins.git
+## Pull updates
+```bash
+git pull origin master
+git submodule update
 ```
