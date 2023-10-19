@@ -5,7 +5,7 @@ My Vim Plugins
 
 ## Configure for first time
 ```bash
-mkdir -p ~/.local/share/nvim/site/pack/
+mkdir -p ~/.local/share/nvim/site/pack/ && cd $_
 git clone --recurse-submodules git@github.com:subhadig/vim-plugins.git
 ```
 
