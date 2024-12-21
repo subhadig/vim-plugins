@@ -13,3 +13,9 @@
 [submodule "start/nvim-lspconfig"]
 	path = start/nvim-lspconfig
 	url = git@github.com:neovim/nvim-lspconfig.git
+[submodule "start/coq_nvim"]
+	path = start/coq_nvim
+	url = https://github.com/ms-jpq/coq_nvim.git
+[submodule "start/coq.artifacts"]
+	path = start/coq.artifacts
+	url = https://github.com/ms-jpq/coq.artifacts
