@@ -19,3 +19,6 @@
 [submodule "start/coq.artifacts"]
 	path = start/coq.artifacts
 	url = https://github.com/ms-jpq/coq.artifacts
+[submodule "start/draw-it"]
+	path = start/draw-it
+	url = https://github.com/vim-scripts/DrawIt.git
