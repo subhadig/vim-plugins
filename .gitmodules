@@ -22,3 +22,6 @@
 [submodule "start/draw-it"]
 	path = start/draw-it
 	url = https://github.com/vim-scripts/DrawIt.git
+[submodule "start/outline.nvim"]
+	path = start/outline.nvim
+	url = https://github.com/hedyhli/outline.nvim
