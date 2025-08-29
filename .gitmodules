@@ -25,3 +25,6 @@
 [submodule "start/outline.nvim"]
 	path = start/outline.nvim
 	url = https://github.com/hedyhli/outline.nvim
+[submodule "opt/gp.nvim"]
+	path = opt/gp.nvim
+	url = git@github.com:subhadig/gp.nvim.git
