@@ -37,3 +37,6 @@
 [submodule "opt/CopilotChat.nvim"]
 	path = opt/CopilotChat.nvim
 	url = https://github.com/CopilotC-Nvim/CopilotChat.nvim.git
+[submodule "opt/night-owl.nvim"]
+	path = opt/night-owl.nvim
+	url = https://github.com/oxfist/night-owl.nvim.git
