@@ -40,3 +40,6 @@
 [submodule "opt/night-owl.nvim"]
 	path = opt/night-owl.nvim
 	url = https://github.com/oxfist/night-owl.nvim.git
+[submodule "opt/gruvbox-material"]
+	path = opt/gruvbox-material
+	url = https://github.com/sainnhe/gruvbox-material.git
